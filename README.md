@@ -73,13 +73,14 @@ Below are some of the mobile applications I’ve developed that are available on
 - **Technologies**: Swift, MVC, XCTest, CI/CD  
 - **App Store Link**: [Pinkfluence on App Store](http://www.apppicker.com/apps/930771688/pinkfluence--a-girls-shopping-wish-list)  
 
-### Other Notable Projects
-#### Sydney Health
+### Sydney Health
 - **Role**: Software Engineer at Legato Health Technologies  
 - **Duration**: Aug 2020 - Jul 2022 | Bengaluru, India  
-- **Description**: Developed this React Native-based health app with SwiftUI and MVVM, increasing patient engagement by 15% for 10,000+ users with enhanced UI/UX. Optimized REST APIs, reducing latency by 20% for real-time monitoring. *(Not confirmed as live on App Store)*  
+- **Description**: Developed this React Native-based health app with SwiftUI and MVVM, increasing patient engagement by 15% for 10,000+ users with enhanced UI/UX. Optimized REST APIs, reducing latency by 20% for real-time monitoring. Led feature development end-to-end, ensuring stability with unit testing and Agile workflows.  
 - **Technologies**: React Native, SwiftUI, MVVM, REST APIs  
+- **App Store Link**: [Sydney Health on App Store](https://apps.apple.com/us/app/sydney-health/id1452583697)  
 
+### Other Notable Projects
 #### VFS Global
 - **Role**: Software Engineer at Synoverge Technologies Pvt. Ltd.  
 - **Duration**: Dec 2016 - Nov 2019 | Ahmedabad, India  
