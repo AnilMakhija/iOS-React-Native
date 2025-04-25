@@ -57,7 +57,7 @@ Below are some of the mobile applications I’ve developed that are available on
 - **Related App**: *Enphase Installer Toolkit*  
   - **Description**: Supported the development of this app for solar installers, enabling configuration and management of Enphase systems. Utilized Swift and BLE integrations to provide real-time tools, enhancing installer efficiency within the Enphase ecosystem.  
   - **Technologies**: Swift, BLE, UIKit  
-  - **App Store Link**: [Enphase Installer Toolkit on App Store](https://apps.apple.com/us/app/enphase-installer-toolkit/id871779232)  
+  - **App Store Link**: [Enphase Installer Toolkit on App Store](https://apps.apple.com/us/app/enphase-installer-toolkit/id1452583697)  
 
 ### Roquette
 - **Role**: Software Engineer at Synoverge Technologies Pvt. Ltd.  
