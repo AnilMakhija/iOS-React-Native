@@ -53,7 +53,7 @@ Below are some of the mobile applications I’ve developed that are available on
 - **Duration**: Aug 2022 - Present | Bengaluru, India  
 - **Description**: Directed a 6-member team to build this energy monitoring app using Swift, SwiftUI, and Cordova with an MVVM architecture. The app serves 50,000+ users, increasing engagement by 25% through real-time BLE, WiFi, and WebSocket integrations for device communication and chat features. Improved performance by 20% with UIKit, Core Animation, and Auto Layout enhancements, while leveraging Firebase for analytics and push notifications to boost retention. Designed offline BLE control features for uninterrupted use in low-network areas.  
 - **Technologies**: Swift, SwiftUI, Cordova, MVVM, BLE, WiFi, WebSocket, Core Data, Firebase, UIKit, Core Animation, Auto Layout  
-- **App Store Link**: [Enphase Enlighten on App Store](https://apps.apple.com/us/app/enphase-enlighten/id576904953)  
+- **App Store Link**: [Enphase Enlighten on App Store]([https://apps.apple.com/us/app/enphase-enlighten/id576904953](https://apps.apple.com/us/app/enphase-enlighten/id787415770))  
 - **Related App**: *Enphase Installer Toolkit*  
   - **Description**: Supported the development of this app for solar installers, enabling configuration and management of Enphase systems. Utilized Swift and BLE integrations to provide real-time tools, enhancing installer efficiency within the Enphase ecosystem.  
   - **Technologies**: Swift, BLE, UIKit  
