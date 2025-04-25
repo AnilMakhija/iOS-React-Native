@@ -78,7 +78,7 @@ Below are some of the mobile applications I’ve developed that are available on
 - **Duration**: Aug 2020 - Jul 2022 | Bengaluru, India  
 - **Description**: Developed this React Native-based health app with SwiftUI and MVVM, increasing patient engagement by 15% for 10,000+ users with enhanced UI/UX. Optimized REST APIs, reducing latency by 20% for real-time monitoring. Led feature development end-to-end, ensuring stability with unit testing and Agile workflows.  
 - **Technologies**: React Native, SwiftUI, MVVM, REST APIs  
-- **App Store Link**: [Sydney Health on App Store](https://play.google.com/store/apps/details?id=com.anthem.sydney)  
+- **App Store Link**: [Sydney Health on App Store](https://apps.apple.com/us/app/sydney-health/id1463423283)  
 
 ### Other Notable Projects
 #### VFS Global
